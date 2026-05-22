@@ -6,10 +6,9 @@
 <td width="50%" valign="top">
 <h2 align="center">About Me</h2>
 
-**Hi, I'm Huy Pham.**
-Also known as Lavender / Halzyonnn / KawakiMeido.
+<p align="justify"><b>Hi, I'm Huy Pham</b>, also known as <b>Lavender</b> / <b>Halzyonnn</b>. I'm currently a CS & Math major at <b>Purdue University</b>.</p>
 
-There is nothing but AI slop and SegTreeBeats! here. Feel free to look around!
+<p align="justify">There is nothing but AI slop and SegTreeBeats! here. Feel free to look around!</p>
 
 </td>
 <td width="50%" valign="top" align="center">
@@ -20,7 +19,7 @@ There is nothing but AI slop and SegTreeBeats! here. Feel free to look around!
 <!-- Add or remove a badge line below to add/remove links -->
 <a href="https://codeforces.com/profile/Halzyonnn"><img src="https://img.shields.io/badge/Codeforces-Halzyonnn-1F8ACB?style=flat-square&logo=codeforces&logoColor=white" height="18"></a>
 <a href="https://github.com/huypham-0607"><img src="https://img.shields.io/badge/GitHub-huypham--0607-181717?style=flat-square&logo=github&logoColor=white" height="18"></a>
-<a href="https://linkedin.com/in/YOUR_LINKEDIN_HANDLE"><img src="https://img.shields.io/badge/LinkedIn-Huy_Pham-0A66C2?style=flat-square&logo=linkedin&logoColor=white" height="18"></a>
+<a href="https://www.linkedin.com/in/huy-m-pham/"><img src="https://img.shields.io/badge/LinkedIn-Huy_Pham-0A66C2?style=flat-square&logo=linkedin&logoColor=white" height="18"></a>
 
 </td>
 </tr>
