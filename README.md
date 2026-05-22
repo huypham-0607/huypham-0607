@@ -10,6 +10,8 @@
 
 <p align="justify">There is nothing but AI slop and SegTreeBeats! here. Feel free to look around!</p>
 
+<div align="center"><img src="https://media4.giphy.com/media/BeAk6zYaR3gCk/giphy.gif" width="320"></div>
+
 </td>
 <td width="50%" valign="top" align="center">
 <br>
