@@ -22,7 +22,6 @@ There is nothing but AI slop and SegTreeBeats! here. Feel free to look around!
 <a href="https://github.com/huypham-0607"><img src="https://img.shields.io/badge/GitHub-huypham--0607-181717?style=flat-square&logo=github&logoColor=white" height="18"></a>
 <a href="https://linkedin.com/in/YOUR_LINKEDIN_HANDLE"><img src="https://img.shields.io/badge/LinkedIn-Huy_Pham-0A66C2?style=flat-square&logo=linkedin&logoColor=white" height="18"></a>
 
-<br>
 </td>
 </tr>
 </table>
