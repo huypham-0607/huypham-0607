@@ -1,6 +1,3 @@
-
-# Wewcome to my page OwO
-
 <table border="2">
 <tr>
 <td width="50%" valign="top">
@@ -8,7 +5,7 @@
 
 <p align="justify"><b>Hi, I'm Huy Pham</b>, also known as <b>Lavender</b> / <b>Halzyonnn</b>. I'm currently a CS & Math major at <b>Purdue University</b>.</p>
 
-<p align="justify">There is nothing but AI slop and SegTreeBeats! here. Feel free to look around!</p>
+<p align="justify">Dewe is nyothing but ai swop and segtweebeats owo! hewe. Feew fwee to uwu wook awound owo!</p>
 
 <div align="center"><img src="https://media4.giphy.com/media/BeAk6zYaR3gCk/giphy.gif" width="100%"></div>
 
@@ -34,8 +31,7 @@
 <div align="center">
 
 [![](https://raw.githubusercontent.com/huypham-0607/huypham-0607/main/profile-summary-card-output/tokyonight/0-profile-details.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
-[![](https://raw.githubusercontent.com/huypham-0607/huypham-0607/main/profile-summary-card-output/tokyonight/1-repos-per-language.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards) [![](https://raw.githubusercontent.com/huypham-0607/huypham-0607/main/profile-summary-card-output/tokyonight/2-most-commit-language.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
-[![](https://raw.githubusercontent.com/huypham-0607/huypham-0607/main/profile-summary-card-output/tokyonight/3-stats.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards) [![](https://raw.githubusercontent.com/huypham-0607/huypham-0607/main/profile-summary-card-output/tokyonight/4-productive-time.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
+[![](https://raw.githubusercontent.com/huypham-0607/huypham-0607/main/profile-summary-card-output/tokyonight/2-most-commit-language.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards) [![](https://raw.githubusercontent.com/huypham-0607/huypham-0607/main/profile-summary-card-output/tokyonight/3-stats.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
 
 </div>
 
