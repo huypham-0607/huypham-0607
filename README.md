@@ -1,11 +1,21 @@
 <table border="2">
 <tr>
 <td width="50%" valign="top">
-<h2 align="center">About Me</h2>
 
-<p align="justify"><b>Hi, I'm Huy Pham</b>, also known as <b>Lavender</b> / <b>Halzyonnn</b>. I'm currently a CS & Math major at <b>Purdue University</b>.</p>
+# Huy (Lavender) Pham
 
-<p align="justify">Dewe is nyothing but ai swop and segtweebeats owo! hewe. Feew fwee to uwu wook awound owo!</p>
+CS & Mathematics student at Purdue University interested in algorithmic systems, graph computation, and performance engineering.
+I build backend-oriented projects combining mathematical modeling, large-scale data processing, and efficient algorithm implementation.
+I also enjoy competitive programming - and cats.
+
+## Current Work
+- Building BM25 and graph-ranking engines for ScholarRank
+- Studying algorithm analysis, statistics, and systems optimization
+
+## Competitive Programming
+- Codeforces Candidate Master
+- Second Prize, Vietnam Olympiad in Informatics
+- Interested in graph algorithms, data structures, optimization, and combinatorics
 
 <div align="center"><img src="https://media4.giphy.com/media/BeAk6zYaR3gCk/giphy.gif" width="100%"></div>
 
@@ -31,7 +41,6 @@
 <div align="center">
 
 [![](https://raw.githubusercontent.com/huypham-0607/huypham-0607/main/profile-summary-card-output/tokyonight/0-profile-details.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
-[![](https://raw.githubusercontent.com/huypham-0607/huypham-0607/main/profile-summary-card-output/tokyonight/2-most-commit-language.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards) [![](https://raw.githubusercontent.com/huypham-0607/huypham-0607/main/profile-summary-card-output/tokyonight/3-stats.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
 
 </div>
 
