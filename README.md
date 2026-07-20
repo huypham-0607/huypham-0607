@@ -5,7 +5,7 @@
 <h2 align="center">Huy “Lavender” Pham</h2>
 
 <p align="justify">
-<b>CS & Mathematics</b> student at <b>Purdue University</b> interested in algorithmic systems, graph computation, and performance engineering.<br> <br>
+<b>CS & Mathematics</b> student at <b>Purdue University</b> interested in algorithmic systems, mathematical modeling, and performance engineering.<br> <br>
 I also enjoy competitive programming - and cats.
 </p>
 
