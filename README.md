@@ -2,7 +2,7 @@
 <tr>
 <td width="50%" valign="top">
 
-<h2 align="center">Huy “Lavender” Pham</h2>
+<h2 align="center">About me</h2>
 
 <p align="justify">
 <b>CS & Mathematics</b> student at <b>Purdue University</b> interested in algorithmic systems, mathematical modeling, and performance engineering.<br> <br>
