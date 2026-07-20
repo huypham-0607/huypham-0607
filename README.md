@@ -25,19 +25,3 @@ I also enjoy competitive programming - and cats.
 </td>
 </tr>
 </table>
-
----
-
-<!-- Github stats section -->
-
-<div align="center">
-
-[![](https://raw.githubusercontent.com/huypham-0607/huypham-0607/main/profile-summary-card-output/tokyonight/0-profile-details.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
-
-</div>
-
-<div align="center">
-
-<p> Credits: <a href="https://github.com/vn7n24fzkq/github-profile-summary-cards">github-profile-summary-cards</a></p>
-
-</div>
